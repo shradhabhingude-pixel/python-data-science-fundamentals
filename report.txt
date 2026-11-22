@@ -1,0 +1,16 @@
+STUDENT SCORE ANALYSIS
+=======================
+Students analyzed: 5
+Class average: 82.4
+Top student: Mina (92.0)
+
+Subject averages:
+- Python: 82.0
+- Statistics: 82.8
+
+Student results:
+- Asha: average 85.0 (Strong)
+- Ravi: average 77.5 (Keep practicing)
+- Mina: average 92.0 (Strong)
+- Noah: average 71.5 (Keep practicing)
+- Zara: average 86.0 (Strong)
